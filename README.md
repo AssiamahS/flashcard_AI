@@ -1,6 +1,6 @@
 # flashcard_AI
 
-``plain-text
+```plaintext
 flashcard-game/
 │
 ├── server.py
